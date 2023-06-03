@@ -1,0 +1,126 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    display: flex;
+    margin-top: 31px;
+}
+.nav{
+    margin-left: 184px;
+    margin-top: 31px;
+  
+}
+.logo{
+    height: 36px;
+    width: 76px;
+    border-radius: 6px;
+    background-color: #1CC0EF;
+    border: 2px solid #1CC0EF;
+    color: white;
+
+}
+
+.b2{
+    margin-left: 62px;
+    border: 1px solid #16C0EF;
+border-radius: 4px;
+width: 140px;
+height: 36px;
+color: #16C0EF;
+background-color: #ffffff;
+
+}
+.EP{
+    margin-left: 34px;
+}
+.stories{
+    margin-left: 23px;
+}
+p{
+    text-align: left;
+    font: normal normal bold 14px/19px Open Sans;
+    letter-spacing: 0.15px;
+    color: #7C8796;
+    opacity: 1;
+    /* margin-left: 23px; */
+    padding-top: 9px;
+}
+
+.navright{
+margin-left: 546px;
+margin-bottom: 2px;}
+.login{
+    margin-left: 33px;
+    text-align: right;
+font: normal normal bold 14px/19px Open Sans;
+letter-spacing: 0.15px;
+color: #16C0EF;
+opacity: 1;
+text-decoration: none;
+}
+h1{
+    font-size: 36px;
+    color: #2A3844;
+    letter-spacing: 0.39px;
+    font-weight: bold;
+    }
+
+span{color:#1CC0EF;}
+.createstory{
+    border:1px solid #1CC0EF;
+    padding:14px 25px 14px 25px;
+    border-radius: 8px;
+    background-color: #1CC0EF;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 15px;
+    /* margin-left: 22px; */
+}
+.img{
+    margin-left: 90px;
+}
+
+
+/* ..................third-section.............................. */
+
+.third-section{
+    background:#F4F8FA ;
+padding-bottom: 40px;}
+
+#title-button{
+    text-decoration: none;
+    border:1px solid #1CC0EF;
+    color:#FFFFFF;
+    background-color: #1CC0EF;
+    font-size: 16px;
+    border-radius: 3px;
+    padding:4px 23.5px 13px 38px;
+}
+#thirdSection{
+    display: flex;
+    justify-content: space-evenly;
+margin-left: 90px;
+padding-top: 10px;
+}
+.box-1{
+    margin-left: 20px;
+}
+
+
+/* .............................last section.......................... */
+
+.last-section{
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+
+.lastsection-img{
+padding-left: 244px;}
+
+#last-section2{
+padding-top: 40px;
+}
+#view{
+    font-size: 15px;font-weight: bold;text-decoration: none;border: 1px solid #1CC0EF;border-radius: 8px;color: #1CC0EF;padding:13.5px 10px 14.5px 9px;
+}
